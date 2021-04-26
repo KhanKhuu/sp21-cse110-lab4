@@ -21,7 +21,7 @@
     - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
 
 8. In the response, what type of server did it come from?
-   An Apache server
+    - An Apache server
 
 9.  When was the file last modified?
     - Tue, 26 Jan 2021 22:14:13 GMT
