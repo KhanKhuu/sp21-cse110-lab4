@@ -84,5 +84,3 @@
     - The result is that `newArr` is returned as `[2,4,6]`. This is because `modifyArray` `push`es values to `newArr` as they are returned from `callback`, which in this case is `doSomething`. `doSomething` merely multiplies the given number by `2` and thus `newArr` gets each value of `array` (namely `[1,2,3]`) doubled.
 
 19. `'1\n4\n3\n2'` because the `3` gets printed after waiting `0` seconds, and the overhead for making sure that happens amounts to it coming just after `4` which doesn't have to set a timeout and the `4` gets printed after `1000` milliseconds because we assigned the function to be run after that timeout value.
-
-## Part 2
